@@ -1,0 +1,8 @@
+To run this project, first go to:
+  https://github.com/Robilsu/Theorem-of-Branch-Redundancy/blob/main/BRANCH[WEB].lean
+  
+Load BRANCH[WEB].lean at (you can either copy-and-paste it or use the load function):
+  https://leanprover-community.github.io/lean-web-editor
+  
+The Lean web editor will take some minutes to load fully and process the code.
+Do not worry! The waiting is normal and happens only once (when the code is loaded).
